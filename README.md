@@ -2,7 +2,7 @@
 
 > This is Profile Scroller application built with Vanilla Javascript.
 
-![screenshot](images/screenshot.png)
+![screenshot](/Images/screenshot.png)
 
 This project is application built with Vanilla Javascript. Main goal was to build application that uses iterator function.
 
